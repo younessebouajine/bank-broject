@@ -1,0 +1,6 @@
+﻿  Bank Program Soulistion.cpp
+C:\Users\Administrateur\source\repos\Bank Program Soulistion\Bank Program Soulistion\Bank Program Soulistion.cpp(30,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Administrateur\source\repos\Bank Program Soulistion\Bank Program Soulistion\Bank Program Soulistion.cpp(152,11): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrateur\source\repos\Bank Program Soulistion\Bank Program Soulistion\Bank Program Soulistion.cpp(346): warning C4715: 'DeleteClientFromFile': not all control paths return a value
+C:\Users\Administrateur\source\repos\Bank Program Soulistion\Bank Program Soulistion\Bank Program Soulistion.cpp(396): warning C4715: 'UpdateClientFromFile': not all control paths return a value
+  Bank Program Soulistion.vcxproj -> C:\Users\Administrateur\source\repos\Bank Program Soulistion\x64\Debug\Bank Program Soulistion.exe
